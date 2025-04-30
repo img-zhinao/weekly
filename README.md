@@ -1,30 +1,7 @@
-# 科技爱好者周刊
+# 智脑时代周刊
 
-记录每周值得分享的科技内容，周五发布。
+《智脑时代周刊》，内容包括智能体、数据资产、分布式算力及RWA洞察的深度研究报告。
 
-欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
-
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/6443)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
-
-## 如何搜索
-
-周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
-
-1、使用 GitHub 自带的网页搜索。
-
-2、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。
-
-3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
-
-```bash
-$ grep -nri [搜索词] docs | cat --number
-```
-
-比如，搜索 CSS 相关内容。
-
-```bash
-$ grep -nri css docs | cat --number
-```
 
 ## 2025
 
